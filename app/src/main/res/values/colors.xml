@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="default_background" type="color">#FFFFFF</item>
+    <item name="tab_background" type="color">#300b33</item>
+    <item name="default_text_color" type="color">#000000</item>
+    <item name="home_background_border" type="color">#510c3e</item>
+    <item name="content_background" type="color">#FFFFFF</item>
+    <item name="company_text_color" type="color">#2E2E2C</item>
+    <item name="button_text_color" type="color">#FFFFFF</item>
+    <item name="button_background_color" type="color">#8cc640</item>
+    <item name="tab_selected_color" type="color">#ffffff</item>
+    <item name="tab_unselected_color" type="color">#cd239d</item>
+</resources>

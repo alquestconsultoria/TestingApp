@@ -1,0 +1,17 @@
+<resources>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="default_padding">16dp</dimen>
+    <dimen name="default_margin">3dp</dimen>
+    <dimen name="list_users_height">250dp</dimen>
+    <dimen name="about_height">280dp</dimen>
+    <dimen name="list_users_icon">60dp</dimen>
+    <dimen name="home_button_text_size">10sp</dimen>
+    <dimen name="home_margin">6dp</dimen>android:gravity="center"
+    <dimen name="button_margin">12dp</dimen>
+    <dimen name="tab_textsize">10sp</dimen>
+    <dimen name="about_text_size">18sp</dimen>
+    <dimen name="small_image_height">170dp</dimen>
+    <dimen name="small_image_width">170dp</dimen>
+</resources>

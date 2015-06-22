@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">jamescoggan</string>
+    <string name="action_settings">Settings</string>
+    <string name="geterror_title">Failed to connect</string>
+    <string name="geterror_message">Failed to connect to our servers</string>
+    <string name="enter_value">Select the value</string>
+    <string name="you_send">You send:</string>
+    <string name="receiver_gets">Receiver gets:</string>
+    <string name="default_currency">GBP</string>
+    <string name="fees">Fees</string>
+    <string name="total_to_pay">Total to Pay</string>
+    <string name="exchange_rate">Guaranteed Exchange Rate</string>
+    <string name="home_button_send_to">Send to</string>
+    <string name="debug_currency">Found currency: </string>
+    <string name="button_send">Send</string>
+    <string name="order_done">Money has been sent, check your user for details</string>
+    <string name="name_missing_title">No destination selected</string>
+    <string name="name_missing_message">Please select the destination</string>
+    <string name="ammount_missing_title">Select a value</string>
+    <string name="ammount_missing_message">Please choose a value to be sent</string>
+    <string name="select_currency_title">Please select the currency</string>
+    <string name="please_wait">Downloading data, Please wait...</string>
+    <string name="processing">Processing data, please wait...</string>
+    <string name="home_title">Users</string>
+    <string name="user_title">View User</string>
+    <string name="about_title">About</string>
+    <string name="about_text">Application created by \nJames Coggan</string>
+    <string name="user_description">user_description</string>
+    <string name="tab_icon_description">Tab icon</string>
+    <string name="splash_logo">Splash Logo</string>
+    <string name="genre">Genre</string>
+    <string name="description">Description</string>
+    <string name="please_select">Please choose an user from the tab Users</string>
+    <string name="pitch_zoom">Pitch or double tap to zoom</string>
+</resources>
