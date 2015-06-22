@@ -29,7 +29,7 @@ public class UserFragmentTest extends ActivityUnitTestCase<UserFragmentTest.AppA
     }
 
     public static class UserFragment extends Fragment {
-        //@InjectView(R.id.user_name)
+        @InjectView(R.id.user_name)
         TextView user_name;
 
         @InjectView(R.id.user_image)
